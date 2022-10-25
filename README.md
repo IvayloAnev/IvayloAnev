@@ -1,5 +1,8 @@
 ### Hi there 👋 I am Ivaylo Anev!
 
+🌱 I’m currently learning Java Script Web Development at SoftUni Bulgaria .
+Successfully finished modules Programmimg Basics , Programmimg Fundamentals , Java Script Advanced , Java Script Aplicatios .
+To be finished in the next comming months JS WEB - JS Back-end , JS Front end framewrok , HTML&CSS
 <!--
 **IvayloAnev/IvayloAnev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
