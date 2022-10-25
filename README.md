@@ -3,7 +3,7 @@
 🌱 I’m currently learning Java Script Web Development at SoftUni Bulgaria .
 Successfully finished modules Programmimg Basics , Programmimg Fundamentals , Java Script Advanced , Java Script Aplicatios .
 To be finished in the next comming months JS WEB - JS Back-end , JS Front end framewrok , HTML&CSS
-<!--
+
 
 🧰
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width ="50" height ="50" />
