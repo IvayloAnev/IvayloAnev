@@ -7,8 +7,7 @@ To be finished in the next comming months JS WEB - JS Back-end , JS Front end fr
 ...
 🧰
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS logo" width ="50" height ="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width ="50" height ="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS logo" width ="50" height ="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width ="50" height ="50" />
 
 **IvayloAnev/IvayloAnev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
